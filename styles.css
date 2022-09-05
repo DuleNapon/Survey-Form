@@ -1,0 +1,56 @@
+form {
+    margin: auto;
+    width: 25%
+  }
+  #title {
+    text-align: center;
+  }
+  #description {
+    text-align: center;
+  }
+  div {
+    margin: auto;
+    width: 100%;
+  }
+  #name-label {
+    margin: 10px;
+  }
+  #name {
+    width: 95%;
+    margin: 10px;
+  }
+  #email-label {
+    margin: 10px;
+  }
+  #email {
+    width: 95%;
+    margin: 10px;
+  }
+  #number-label {
+    margin: 10px;
+  }
+  #number {
+    width: 95%;
+    margin: 10px;
+  }
+  #dropdown {
+    width: 95%;
+    margin: 10px;
+  }
+  p {
+    text-align: left;
+    margin: 10px;
+  }
+  #text-area {
+    width: 95%;
+    margin: 10px;
+    min-height: 120px;
+    
+  }
+  #label-text-area {
+    margin:10px;
+  }
+  #submit {
+    width: 95%;
+    margin: 10px;
+  }
